@@ -6,7 +6,7 @@
 <?php
 
     echo gethostname();
-    echo "<br>"
+    echo "<br>";
     echo  getHostByName(getHostName());
 
 ?>
